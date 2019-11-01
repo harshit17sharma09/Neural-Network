@@ -1,0 +1,6 @@
+- Take the i/p from the training example and put them through our formula to get the neuron's output
+- Calculate the error which is the difference between the o/p we got and the actual o/p 
+- Depending on the severeness of the error , adjust the weights accordingly
+- Repeat this 20,000 times
+
+
